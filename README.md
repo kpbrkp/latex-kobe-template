@@ -12,6 +12,7 @@ LaTeX（ラテフ）は、レポートや学術論文などの文書作成に適
   - [1. 環境設定](#1-環境設定)
     - [1.1 VSCodeとLatexのインストール](#11-vscodeとlatexのインストール)
     - [1.2 VSCodeの設定](#12-vscodeの設定)
+    - [1.3 OSの再起動](#13-osの再起動)
   - [2. 運用方法](#2-運用方法)
     - [2.1 本レポジトリのダウンロード](#21-本レポジトリのダウンロード)
     - [2.2 latexのコンパイル](#22-latexのコンパイル)
@@ -77,6 +78,12 @@ Windowsの場合は[こちら](https://qiita.com/fuku_uma/items/e5ad46125a961232
 
 ---
 
+### 1.3 OSの再起動
+
+新たにパスの追加やsetting.jsonの編集をした場合は、念の為OSを再起動しておくと良い。
+
+---
+
 ## 2. 運用方法
 
 ### 2.1 本レポジトリのダウンロード
@@ -86,7 +93,7 @@ Windowsの場合は[こちら](https://qiita.com/fuku_uma/items/e5ad46125a961232
 1. zipファイルを直接ダウンロードする
    1. [latex-kobe-template](https://github.com/nagampere/latex-kobe-template)にアクセスする
    2. 緑色の「< > Code▽」をクリックし、「Download ZIP」を実行
-2. 【おすすめ】Githubからフォーク(fork)
+2. Githubからフォーク(fork)
    1. [latex-kobe-template](https://github.com/nagampere/latex-kobe-template)にアクセスする
    2. 「< > Code▽」の右上にある「Fork」をクリックし、latex-kobe-templateをコピーした新たなレポジトリ(ホストは自身)を作成する
    3. 新たなレポジトリをgit cloneでローカルに読み込む
