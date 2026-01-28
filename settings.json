@@ -1,4 +1,11 @@
 {
+   // Enable Git in VS Code
+  "git.enabled": true,
+  // Point to the Git executable
+  "git.path": [
+    "C:\\Program files\\Git\\cmd\\git.exe"
+  ],
+
     // ------------ LaTeX ここから -----------------
     // 設定: LaTeX Workshop
     // LaTeX Workshop ではビルド設定を「Tool」と「Recipe」という2つで考える
