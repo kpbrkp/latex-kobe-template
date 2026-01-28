@@ -67,7 +67,7 @@
         },
         {
         "name": "delete",
-        "command": "rm",
+        "command": "del",
         "args": [
             "-f",
             "%DOCFILE%.aux",
